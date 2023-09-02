@@ -25,5 +25,5 @@ To run the backend, create a `.env` file in the backend directory and set the fo
 
 ```dotenv
 PORT=3001
-MONGODB_URI=<Your MongoDB URI>
+MONGO_URL=<Your MongoDB URI>
 JWT_SECRET=<Your JWT Secret>
